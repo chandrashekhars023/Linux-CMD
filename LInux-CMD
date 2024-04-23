@@ -4,3 +4,9 @@ Full Form: List Segments
 Definition: This command is used to list files and directories within the current locations
 working directory.
 Example: ls -l  (This will list the files and directories along with their permissions, size, owner, group, and date and time of the last modification details)
+
+Command: pwd
+Full Form: Print Working Directory
+Definition: It shows the full pathname of the current working directory.
+Example: pwd -
+Executing this command will output the full path to the current directory.
